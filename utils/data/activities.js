@@ -2,7 +2,7 @@ export const activities = [
     {
         id: 1,
         title: "Competitive Programming",
-        organization: "LeetCode, HackerRank, CodeChef, Codeforces",
+        organization: "",
         duration: "",
         description: "Solved 500+ problems on LeetCode, HackerRank, CodeChef, and Codeforces."
     },

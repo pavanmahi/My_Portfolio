@@ -1,0 +1,44 @@
+BEJAWADA PAVAN
+ +91 6305857476 # pavanbejawada4376@gmail.com
+linkedin : https://www.linkedin.com/in/pavan-bejawada-81b59a23a
+github : https://github.com/pavanmahi
+LeetCode : https://leetcode.com/pavan_4376/
+
+PROFESSIONAL SUMMARY:
+Results-driven SDE and AI/ML enthusiast with strong DSA skills, experienced in full-stack development,
+building ML solutions, and deploying real-time APIs. Proven ability to design and develop secure, scalable
+systems with innovative approaches, aiming to deliver high-impact software solutions in dynamic environments.
+EDUCATION
+B.Tech in CSE (AI & ML) Geethanjali College of Engineering and Technology Expected 2026 CGPA: 8.9
+Intermediate (MPC) MJPTBCWRJC Nagarjuna Sagar 2022 Score: 98.3%
+Secondary School (SSC) DAV High School, Puttamgandi 2020 GPA: 10.0
+SKILLS
+Programming: Python, Java, C++, C, Data Structures and Algorithms
+Web Technologies: HTML, CSS, JavaScript, ReactJs, NodeJs, Flask, APIs
+AI/ML & GenAI: LLMs, Transformers, Hugging Face, Pinecone, Scikit-learn, TensorFlow, Pandas, Numpy
+Databases & Tools: SQL, MongoDB | Git, GitHub, Vertex AI Studio, Power BI, Docker, Figma
+Computer Science Fundamentals: Operating Systems, DBMS, Computer Networks, OOPS, Software Engineering
+EXPERIENCE
+AI Engineer Intern – Turtil May 2025 – June 2025
+• Built an end-to-end Karma Fraud Detection System with real-time APIs to detect reputation manipulation.
+• Developed a web app for activity input and dashboards showing fraud scores and risk analytics.(Try it here)
+• Trained a Random Forest classifier achieving 92% accuracy with explainable predictions; deployed via Docker.
+PROJECTS
+AgriIntel - Deep Learning-Based Soil Quality Analyzer (Try it here) April 2025
+• Built a web app with a CNN model to classify soil types from images, achieving 90%+ accuracy.
+• Integrated Flask backend and React.js frontend to provide agricultural and industrial recommendations.
+InvisiHide - Secure Steganography Web App (Try it here) Febrauary 2025
+• Built a full-stack app for secure data hiding in images using OpenCV, NumPy, and LSB steganography.
+• Features password protection via React.js and Flask; used by 100+ users in college CNS labs.
+CineSphere – Movie Recommendation & Management (Try it here) June 2024
+• Designed a full-stack movie platform with secure authentication, personalized watchlists, detailed reviews, and
+dynamic real-time recommendations.
+• Integrated external movie APIs and developed scalable backend infrastructure using Node.js and MongoDB.
+GLOBAL CERTIFICATIONS
+ServiceNow CSA , ServiceNow CAD
+EXTRA-CURRICULAR ACTIVITIES
+• Competitive Programming: Solved 500+ problems on LeetCode, HackerRank, CodeChef, and Codeforces.
+• Coding Club Coordinator: Actively participate in and organize coding challenges, workshops, and hackathons
+to foster a culture of problem-solving and innovation among peers.
+• Technical Head, AIML Club: Acted as a resource person for a Figma prototyping workshop for 150+
+participants, covering UI/UX design and interactive workflows.
